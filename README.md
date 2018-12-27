@@ -2,7 +2,6 @@
 ##Working With Proxmark3 
 
 * 阅读来自银行卡的消费记录/身份证/姓名
-*
 
 ##Usege
 
